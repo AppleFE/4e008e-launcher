@@ -2,10 +2,10 @@
   "$schema": "file:///C:/Users/AeongE/Desktop/launchers/4e008e/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "4e008e (Minecraft 1.16.5)",
-    "description": "4e008e Running Minecraft 1.16.5 (Forge v36.2.41)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "tuna.mcv.kr",
+    "name": "뭉탱이 서버",
+    "description": "마인크래프트 뭉탱이 서버",
+    "icon": "https://cdn.discordapp.com/attachments/715913920459833353/1241667912943669328/SealCircle.png?ex=664b08db&is=6649b75b&hm=3616ee39b5cb4e05640f28ea2a35b749355ed2b02de226a702e444e71f4f361d&",
+    "address": "test.example.com",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

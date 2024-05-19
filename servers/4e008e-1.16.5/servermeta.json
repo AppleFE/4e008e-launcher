@@ -1,10 +1,10 @@
 {
-  "$schema": "https://cdn.discordapp.com/attachments/715913920459833353/1241667912943669328/SealCircle.png?ex=664b08db&is=6649b75b&hm=3616ee39b5cb4e05640f28ea2a35b749355ed2b02de226a702e444e71f4f361d&",
+  "$schema": "https://github.com/AppleFE/4e008e-launcher/blob/main/SealCircle.png?raw=true",
   "meta": {
     "version": "1.0.0",
     "name": "뭉탱이 서버",
     "description": "마인크래프트 뭉탱이 서버",
-    "icon": "https://cdn.discordapp.com/attachments/715913920459833353/1241667912943669328/SealCircle.png?ex=664b08db&is=6649b75b&hm=3616ee39b5cb4e05640f28ea2a35b749355ed2b02de226a702e444e71f4f361d&",
+    "icon": "https://github.com/AppleFE/4e008e-launcher/blob/main/SealCircle.png?raw=true",
     "address": "test.example.com",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

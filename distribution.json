@@ -11,7 +11,7 @@
       "id": "4e008e-1.16.5",
       "name": "뭉탱이 서버",
       "description": "마인크래프트 뭉탱이 서버",
-      "icon": null,
+      "icon": "https://github.com/AppleFE/4e008e-launcher/blob/main/SealCircle.png?raw=true",
       "version": "1.0.0",
       "address": "test.example.com",
       "minecraftVersion": "1.16.5",

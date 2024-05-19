@@ -13,7 +13,7 @@
       "description": "마인크래프트 뭉탱이 서버",
       "icon": "https://github.com/AppleFE/4e008e-launcher/blob/main/SealCircle.png?raw=true",
       "version": "1.0.0",
-      "address": "test.example.com",
+      "address": "4e008e.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
